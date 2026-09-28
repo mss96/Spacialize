@@ -1,0 +1,41 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node / JavaScript
+node_modules/
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
