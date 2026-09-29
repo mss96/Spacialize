@@ -4,6 +4,8 @@ Research date: 29 September 2026. Initial desk research for Spacialize.
 
 Direction update, 29 September 2026: the founder subsequently described the primary use case as managing recurring IT responsibilities across many applications, with domains, subdomains, and semantic zoom. The research-workspace recommendation below predates that clarification. See the [problem and value validation plan](../../Product_discovery/validation-plan.md) for the current hypotheses and experiments; this market analysis remains background evidence.
 
+Follow-up research: the [domain-workspace evidence benchmark](domain-workspace-evidence-benchmark.md) examines activity-based computing, spatial-interface experiments, public accounts from managers and consultants, and current alternatives. It supports a small founder experiment before recruitment, while distinguishing evidence for persistent workspaces from the unproven contribution of a zoomable map.
+
 ## Decision in brief
 
 There is credible evidence of difficulty managing web-based work, especially research spread across sources and sessions. There is not yet sufficient evidence here that an infinite canvas improves productivity or that users will pay to replace their browser.

@@ -1,6 +1,8 @@
 # Spacialize: problem and value validation plan
 
-Date: 29 September 2026. Status: proposed research, not completed validation.
+Date: 29 September 2026. Status: secondary research completed; experiments proposed, not performed.
+
+Sequence update: the [domain-workspace evidence benchmark](../Market_analysis/Research/domain-workspace-evidence-benchmark.md) supplies published studies, public accounts, competing approaches, and counterevidence. It is sufficient to proceed to a bounded founder experiment without recruiting anyone first. The external research stages below are retained as a later protocol, not a prerequisite for the next prototype. No population-level validation or commercial validation is claimed.
 
 ## 1. The decision we need to make
 
@@ -10,7 +12,7 @@ The founder's experience supplies a concrete starting case: an IT professional r
 
 This changes the initial emphasis from exploratory research to recurring operational work. The [earlier market analysis](../Market_analysis/Research/browser-navigation-market-analysis.md) offers adjacent evidence, but does not validate this more specific problem or audience.
 
-Known today: one detailed founder account, supporting browser-management research, and competing approaches. Unknown: how broadly the same problem occurs, its actual cost, the best alternative, sustained use, and willingness or ability to pay. No interviews, experiments, or commercial commitments described below have yet occurred.
+Known today: one detailed founder account, published observation and interview studies, public accounts from relevant roles, controlled evidence for dedicated workspaces, mixed evidence for spatial interaction, and competing approaches. Unknown: prevalence and severity in the chosen segment, Spacialize's incremental benefit, sustained use, and willingness or ability to pay. No new interviews, experiments, or commercial commitments described below have yet occurred.
 
 ## 2. Value proposition and hypotheses
 
@@ -34,7 +36,7 @@ Keep competing explanations open. The dominant problem may be excessive workload
 
 Initial audience: IT professionals who personally operate across at least two recurring responsibilities and use several applications in each. Job titles can include service managers, project managers, consultants, and operations leads, but recruitment should establish actual activities.
 
-Start with 12 discovery participants across at least three teams or organizations if accessible. Include people satisfied with their current setup, people using saved groups or dashboards, and people who abandoned an organizer. Seek at least four participants with an established organizational method. Do not screen only for complaints, high tab counts, enthusiasm for maps, or similarity to the founder.
+If external discovery is undertaken later, use the following proposed sample: 12 discovery participants across at least three teams or organizations if accessible. Include people satisfied with their current setup, people using saved groups or dashboards, and people who abandoned an organizer. Seek at least four participants with an established organizational method. Do not screen only for complaints, high tab counts, enthusiasm for maps, or similarity to the founder.
 
 The founder participates in a rehearsal and diary, excluded from the external participant counts. If everyone comes from one employer, label the findings organization-specific until replicated elsewhere. Accommodate keyboard users and different display sizes; do not recruit only large-monitor or whiteboard enthusiasts.
 
@@ -46,7 +48,9 @@ This requires two domains. A single-domain demo can test navigation, but cannot 
 
 ## 4. Sequence, effort, and gates
 
-Indicative schedule: six weeks if recruitment is available and prototypes stay small. Timing is a planning assumption, not a delivery commitment. Recruit in parallel with preparation. Budget roughly 8-12 researcher-days across preparation, sessions, and analysis, plus participant incentives and a separately capped prototype effort. A second observer is useful but optional. Additional integration development is a separate decision.
+Current next step: a one-week founder experiment, described in section 7 of the [evidence benchmark](../Market_analysis/Research/domain-workspace-evidence-benchmark.md). Compare the current setup with a well-configured conventional workspace, then evaluate a matched spatial representation only if meaningful friction remains. Count maintenance and correctness alongside resumption time. This can test personal utility and reject weak designs, but cannot establish market demand. No recruitment is required for this step.
+
+The following is the deferred external-research track. Its indicative schedule is six weeks if recruitment becomes appropriate and prototypes stay small. Timing is a planning assumption, not a delivery commitment. Budget roughly 8-12 researcher-days across preparation, sessions, and analysis, plus participant incentives and a separately capped prototype effort. A second observer is useful but optional. Additional integration development is a separate decision. Revisit the questions and sample after the founder experiment rather than automatically repeat work already answered by secondary research.
 
 The numeric gates below are proposed investment rules for a small exploratory sample, not scientific standards or estimates of market prevalence. Agree them before seeing results. Report every participant and exception; crossing a gate permits the next experiment, not a claim of product-market fit.
 
@@ -57,7 +61,7 @@ The numeric gates below are proposed investment rules for a small exploratory sa
 | Test the spatial contribution | Week 4 | 12 participants compare matched conventional and map interfaces, including delayed return | Does spatial interaction improve the selected outcome? |
 | Test sustained value and adoption | Weeks 5-6 | Six participants use the strongest version for ten working days; discuss buying and deployment | Is there enough repeated value and feasible adoption to justify an MVP? |
 
-Advance only when the previous stage supports the hypothesis. If conventional organization helps but the map does not, continue with the useful workspace and reconsider the map. If discovery identifies a different problem, rewrite subsequent tasks and gates before testing.
+Within that later external track, advance only when the previous stage supports the hypothesis; these gates do not prohibit the current founder experiment. If conventional organization helps but the map does not, continue with the useful workspace and reconsider the map. If discovery identifies a different problem, rewrite subsequent tasks and gates before testing.
 
 ## 5. Stage one: establish the problem before showing the idea
 
@@ -196,12 +200,12 @@ At each gate, write: what was tested; sample and recruitment limitations; what h
 
 ## 10. First actions
 
-1. Use the founder's own two-domain workday to rehearse the observation and diary. List actual tools, recurring switches, and what must remain in context. Do not treat this as independent validation.
-2. Recruit the first four external participants with different existing organizational habits. Complete their problem sessions before showing the map.
-3. Review those findings, adjust prompts without retroactively changing recorded evidence, and recruit the remaining eight plus diary participants.
-4. Decide whether gate one supports a specific problem statement before investing in either interface prototype.
+1. Use the completed [evidence benchmark](../Market_analysis/Research/domain-workspace-evidence-benchmark.md) to adopt a narrow provisional problem: recovering working context across support and project management.
+2. Record several ordinary founder switches and configure a strong conventional baseline with the same resources and next-action notes. Include setup and upkeep in the comparison.
+3. If consequential friction remains, compare matched conventional and spatial representations. Keep resources, labels, search, and summary information equal. Test operational summaries separately if pursued.
+4. Record task correctness, resumption time, maintenance, and failures during a bounded founder trial. Decide whether to continue the workspace, continue the map, explore overview value, or stop. No experiment results exist yet.
 
-Immediate deliverables from this plan are the recruitment text, screener, interview guide, diary fields, experiment design, and gate criteria. The next evidence must come from observed work.
+The next evidence can come from the founder's own work without involving others. Keep the screener, interview guide, diary fields, and external gates as future resources. Broader adoption and purchasing conclusions remain open; they are not a prerequisite for this limited prototype investment.
 
 ## Method references
 
